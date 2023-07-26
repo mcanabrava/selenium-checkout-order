@@ -3,7 +3,7 @@ This repository was initially focused on experimenting with Selenium basic funct
 
 It was a super easy task. The most challenging part was dealing with the dependencies between Selenium and Chrome versions and related issues, so I created a few more Selenium scripts.
 
-I have also added time.sleep between actions so it's possible to visualize the Selenium doing its work on the recordings.
+I have also added time.sleep between actions so it's possible to visualize Selenium doing its work on the recordings.
 
 ## saucedemo.py
 This is the original script for the test selenium marketplace website.
@@ -11,9 +11,7 @@ This is the original script for the test selenium marketplace website.
 https://github.com/mcanabrava/selenium-scripts/assets/54443088/6b985a04-78c3-45f8-9a13-28070ba90e0e
 
 ## amazon.py
-I decided to test my new skills on an actual website like Amazon.com. The script basically:
-
-https://github.com/mcanabrava/selenium-scripts/assets/54443088/6ecc2937-c359-4932-aafd-cb31c4d3b0cc
+After the first challenge, I decided to test my new skills on an actual website like Amazon.com. The script basically:
 
 1. searches for a product
 2. reads all the prices for that product on the first page
@@ -22,3 +20,4 @@ https://github.com/mcanabrava/selenium-scripts/assets/54443088/6ecc2937-c359-493
   
 The script tries to dodge modals, but it's not always successful as they might appear in different ways.
 
+https://github.com/mcanabrava/selenium-scripts/assets/54443088/6ecc2937-c359-4932-aafd-cb31c4d3b0cc

@@ -15,8 +15,8 @@ After the first challenge, I decided to test my new skills on an actual website 
 
 1. searches for a product
 2. reads all the prices for that product on the first page
-3. click on the cheapest product that fills the name criteria and has a price above a configurable threshold (to avoid scams or related accessories)
-4. add the product to the cart and exit before the log-in, as we don't really want to purchase anything.
+3. clicks on the cheapest product that fills the name criteria and has a price above a configurable threshold (to avoid scams or related accessories)
+4. adds the product to the cart and exit before the log-in, as we don't really want to purchase anything
   
 The script tries to dodge modals, but it's not always successful as they might appear in different ways.
 

@@ -5,12 +5,12 @@ It was a super easy task. The most challenging part was dealing with the depende
 
 I have also added time.sleep between actions so it's possible to visualize Selenium doing its work on the recordings.
 
-## saucedemo.py
+## 1. saucedemo.py
 This is the original script for the test selenium marketplace website.
 
 https://github.com/mcanabrava/selenium-scripts/assets/54443088/6b985a04-78c3-45f8-9a13-28070ba90e0e
 
-## amazon.py
+## 2. amazon.py
 After the first challenge, I decided to test my new skills on an actual website like Amazon.com. The script basically:
 
 1. searches for a product
